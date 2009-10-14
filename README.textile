@@ -1,0 +1,3 @@
+h1. Project Euler
+
+Taking a stab at the Project Euler questions. You should too! http://projecteuler.net
